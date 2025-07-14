@@ -16,6 +16,6 @@ Este é um projeto simples de um componente React chamado **CardProduto**, criad
 
 Clone este repositório e instale as dependências:
 
-git clone https://github.com/Rodrigostucki/card-produto-app.git
+git clone https://github.com/Rodrigostucki/card-produto.git
 cd card-produto-app
 npm install
